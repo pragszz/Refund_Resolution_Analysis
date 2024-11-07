@@ -40,6 +40,6 @@ This project is designed for healthcare professionals, researchers in sleep medi
 
 ## Final Result
 
-![Overall Refund Process Analysis Report](INFARSIGHT REFUND TABLEAU/.png)
+![Overall Refund Process Analysis Report](dashboard/refund.png)
 
-Note: The visualization presented was developed using Power BI.
+Note: The visualization presented was developed using Tableau.
