@@ -17,10 +17,10 @@ This project is designed for healthcare professionals, researchers in sleep medi
 ## Usage
 
 1. Clone the repository to your local machine using Git:
-`git clone https://github.com/pragszz/Sleep-Health-and-Lifestyle.git`
+`git clone https://github.com/pragszz/Refund_Resolution_Analysis.git`
 
 2. Open the terminal and navigate to the Sleep-Health-and-Lifestyle directory:
-`cd Sleep-Health-and-Lifestyle`
+`cd Refund_Resolution_Analysis`
 
 3. Install Dependencies: Make sure you have Python installed. Then, install the required packages using:
 `pip install -r requirements.txt`
