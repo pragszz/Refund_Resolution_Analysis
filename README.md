@@ -1,8 +1,7 @@
 # Refund Resolution Analysis
 ## About 
 
-Purpose
-The Refund Resolution Analysis project aims to uncover key insights into the refund processing workflow for a client of Infarsight. This analysis dives into refund request data, identifying trends, bottlenecks, and improvement opportunities in the refund resolution process. By closely examining factors like ticket status, escalation reasons, and processing times, the project provides actionable data-driven insights to enhance efficiency and customer satisfaction.
+The **Refund Resolution Analysis** project aims to uncover key insights into the refund processing workflow for a client of Infarsight. This analysis dives into refund request data, identifying trends, bottlenecks, and improvement opportunities in the refund resolution process. By closely examining factors like ticket status, escalation reasons, and processing times, the project provides actionable data-driven insights to enhance efficiency and customer satisfaction.
 
 ## Impact
 This analysis provides several benefits:
