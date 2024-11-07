@@ -2,17 +2,14 @@
 ## About 
 
 Purpose
-The primary goal of this project is to explore the various factors that influence sleep health and lifestyle through the analysis of the Sleep Health and Lifestyle Dataset. [Sleep Health and Lifestyle 2023 Data](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset):  This dataset will be used to examine attributes such as sleep duration, quality of sleep, stress levels, and cardiovascular health. The analysis aims to identify trends and correlations that reveal how these factors interact and impact overall well-being. This research seeks to provide valuable insights into the complex relationship between lifestyle choices and sleep quality, contributing to a better understanding of sleep health in real-world contexts.
+The Refund Resolution Analysis project aims to uncover key insights into the refund processing workflow for a client of Infarsight. This analysis dives into refund request data, identifying trends, bottlenecks, and improvement opportunities in the refund resolution process. By closely examining factors like ticket status, escalation reasons, and processing times, the project provides actionable data-driven insights to enhance efficiency and customer satisfaction.
 
-## Real-World Relevance
-Sleep is a critical component of overall health, and understanding the factors that affect it is essential for developing effective interventions. This project aims to bridge the gap between research and practical application, offering findings that can be utilized by:
+## Impact
+This analysis provides several benefits:
 
-- Healthcare Professionals: Insights from the analysis can help clinicians better understand how lifestyle choices—such as physical activity, stress management, and heart health—affect patients' sleep quality. This knowledge can inform patient education, treatment plans, and lifestyle recommendations to improve sleep health outcomes.
-
-- Researchers: The findings provide a foundation for future studies in sleep medicine and public health. Researchers can build on this analysis to investigate specific correlations further, explore the effectiveness of interventions aimed at improving sleep quality, and address the rising prevalence of sleep disorders.
-
-## Target Audience
-This project is designed for healthcare professionals, researchers in sleep medicine, and public health advocates. By sharing these insights, the intention is to foster collaboration and encourage the development of evidence-based strategies to enhance sleep health and reduce the incidence of sleep-related disorders in diverse populations.
+- Improved Customer Satisfaction: By reducing delays and identifying common issues, the client can offer a better refund experience.
+- Increased Efficiency: Insights into processing times highlight areas where the client can streamline operations and reduce costs.
+- Data-Driven Decisions: Visualized data helps the client make informed choices to improve the refund workflow.
 
 ## Usage
 
@@ -21,9 +18,6 @@ This project is designed for healthcare professionals, researchers in sleep medi
 
 2. Open the terminal and navigate to the Sleep-Health-and-Lifestyle directory:
 `cd Refund_Resolution_Analysis`
-
-3. Install Dependencies: Make sure you have Python installed. Then, install the required packages using:
-`pip install -r requirements.txt`
 
 4. Run the Analysis (Jupyter Notebook):
 `jupyter notebook`
@@ -34,7 +28,6 @@ This project is designed for healthcare professionals, researchers in sleep medi
 
 | Package           | Version   |
 |-------------------|-----------|
-| altair            | 5.2.0     |
 | ipython           | 8.15.0    |
 | pandas            | 2.2.2     |
 
